@@ -1,0 +1,19 @@
+body{
+    text-align: center;
+    color: darkgoldenrod;
+}
+#app{
+ background-color: blue;  
+}
+#jogos{
+    background-color: blueviolet;
+}
+#chatbot{
+    background-color: brown;
+}
+.line{
+    background-color:darkgoldenrod;
+    height: 15px;
+    width: 45px;
+    margin: 7px auto;
+}
